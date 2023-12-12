@@ -7,4 +7,4 @@ architectural technologist from Quebec/Canada.
 - 🌱 Actively growing my Autolisp knowledge.
 - 👀 Looking at C#/python and the related Autodesk API for some futur projects.
 - 👯 Looking to collaborate on any AEC projects that can make our day to day workflow better.
-- 📫 How to reach me: DynALisp Discord server for now... as my main email is overflow with garbage mail 😏
+- 📫 How to reach me: my professionnal mail for known partners or the DynALisp Discord server for now... as my main email is overflow with garbage mail 😏
